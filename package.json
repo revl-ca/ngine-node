@@ -1,0 +1,19 @@
+{
+  "name": "ngine-node",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Steve Thomas <steve@revl.ca>",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "express-boom": "^2.0.0",
+    "express-http-proxy": "^1.0.6",
+    "express-joi-validator": "^2.0.0",
+    "joi": "^10.6.0",
+    "jsonwebtoken": "^7.4.3",
+    "pug": "^2.0.0-rc.4",
+    "route-parser": "^0.0.5",
+    "routes": "^2.1.0",
+    "ws": "^3.1.0"
+  }
+}
